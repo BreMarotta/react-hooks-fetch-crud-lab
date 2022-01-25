@@ -33,3 +33,15 @@ function QuestionItem({ question, onDeleteClick, onAnswerChange }) {
 }
 
 export default QuestionItem;
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
